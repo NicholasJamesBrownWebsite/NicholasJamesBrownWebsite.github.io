@@ -17,7 +17,7 @@ body {
   position: relative;
   font-family: 'Source Sans Pro';
   font-weight: 300;
-  /* background-color: #E86F5B; */
+  background-color: black;
 }
 
 .overlay {
@@ -169,9 +169,9 @@ a:hover {
 #booking-button {
   background-color: #fc654d;
   color: white;
-  width: 360px;
-  height: 60px;
-  font-size: x-large;
+  min-width: 250px;
+  min-height: 50px;
+  font-size: large;
   border-radius: 10px;
   border: black solid 3px;
   outline: none;
