@@ -165,3 +165,20 @@ a {
 a:hover {
   color: white!important;
 }
+
+#booking-button {
+  background-color: #fc654d;
+  color: white;
+  width: 360px;
+  height: 60px;
+  font-size: x-large;
+  border-radius: 10px;
+  border: black solid 3px;
+  outline: none;
+}
+
+#booking-button:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
